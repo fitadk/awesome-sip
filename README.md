@@ -5,5 +5,5 @@ So SIP is like the best thing ever to happen to the internet. You can call your 
 
 Here's a list of awesome SIP things:
 
--  [https://wiki.asterisk.org/wiki/display/AST/Getting+Started  The asterisk wiki]
--  [jsSIP:  http://www.jssip.net/  JsSIP]
+-  [The asterisk wiki](https://wiki.asterisk.org/wiki/display/AST/Getting+Started)
+-  [jsSIP:  http://www.jssip.net/](JsSIP)
