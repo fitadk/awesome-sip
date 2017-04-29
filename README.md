@@ -6,4 +6,4 @@ So [SIP](https://en.wikipedia.org/wiki/Session_Initiation_Protocol) is like the 
 Here's a list of awesome SIP things:
 
 -  [The asterisk wiki](https://wiki.asterisk.org/wiki/display/AST/Getting+Started)
--  [jsSIP:  http://www.jssip.net/](JsSIP)
+-  [jsSIP](http://www.jssip.net/)
