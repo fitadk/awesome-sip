@@ -5,7 +5,7 @@ So [SIP](https://en.wikipedia.org/wiki/Session_Initiation_Protocol) is like the 
 
 Here's a list of awesome SIP things:
 
-- [Freeswithc](https://freeswitch.com/)
+- [Freeswitch](https://freeswitch.com/)
 - [The asterisk wiki](https://wiki.asterisk.org/wiki/display/AST/Getting+Started)
 - [sip-tester](https://packages.debian.org/testing/comm/sip-tester)
 - [jsSIP](http://www.jssip.net/)
